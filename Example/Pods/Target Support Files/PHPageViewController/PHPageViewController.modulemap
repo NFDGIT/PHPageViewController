@@ -1,0 +1,6 @@
+framework module PHPageViewController {
+  umbrella header "PHPageViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}

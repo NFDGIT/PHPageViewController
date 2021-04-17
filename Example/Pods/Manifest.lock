@@ -1,0 +1,27 @@
+PODS:
+  - PHPageViewController (0.1.0)
+  - PHQRCode (0.1.0)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - PHPageViewController (from `../`)
+  - PHQRCode
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - PHQRCode
+    - SnapKit
+
+EXTERNAL SOURCES:
+  PHPageViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PHPageViewController: 866eb9ed1365d828de5bf4d2424cbd95be8ced93
+  PHQRCode: ab806bfe4b10d45fa03a952e159257ace2c3e348
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: e175e2452121c0840363a0172ea1a46e876e8c8b
+
+COCOAPODS: 1.9.3
